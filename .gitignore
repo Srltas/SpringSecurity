@@ -21,3 +21,24 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# jwt 프로젝트 설정파일
+jwt/.idea
+jwt/.mvn
+jwt/target
+jwt/.gitignore
+jwt/HELP.md
+jwt/mvnw
+jwt/mvnw.cmd
+
+# security1 프로젝트 설정파일
+security1/.idea
+security1/.mvn
+security1/.settings
+security1/target
+security1/.classpath
+security1/.gitignore
+security1/.project
+security1/HELP.md
+security1/mvnw
+security1/mvnw.cmd
