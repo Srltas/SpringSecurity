@@ -42,3 +42,28 @@ security1/.project
 security1/HELP.md
 security1/mvnw
 security1/mvnw.cmd
+
+# thymeleaf-basic 프로젝트 설정파일
+thymeleaf-basic/.gradle
+thymeleaf-basic/.idea
+thymeleaf-basic/build
+thymeleaf-basic/gradle
+thymeleaf-basic/out
+thymeleaf-basic/.gitignore
+thymeleaf-basic/gradlew
+thymeleaf-basic/gradlew.bat
+thymeleaf-basic/HELP.md
+thymeleaf-basic/settings.gradle
+
+# form 프로젝트 설정파일 
+form/.gradle
+form/.idea
+form/build
+form/gradle
+form/out
+form/.DS_Store
+form/.gitignore
+form/gradlew
+form/gradlew.bat
+form/HELP.md
+form/settings.gradle
